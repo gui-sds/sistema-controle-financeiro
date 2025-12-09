@@ -18,4 +18,3 @@ Inclui tabelas, sequences e triggers para geração automática de IDs.
 2. Execute o script principal:
    ```sql
    @00_run_all.sql
-
